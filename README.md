@@ -14,7 +14,7 @@ Its use, distribution, or modification for any other purpose is not authorized.
 
 ###  Model Weights
 
-The model weights are provided in the following checkpoints folder.
+The model weights are provided in the following google drive link: https://drive.google.com/drive/folders/1hdylDympPT7NJkCtZpFRvYj93KhbA_m_?usp=drive_link
 
 
 ### Example usage
