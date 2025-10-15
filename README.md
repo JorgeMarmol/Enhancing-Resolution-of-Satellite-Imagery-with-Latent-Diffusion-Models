@@ -82,8 +82,8 @@ Path to the model checkpoint file (.ckpt) with pre-trained weights.
 Example: checkpoints/model.ckpt.
 
 - --`input_size`
-Size (in pixels) to which the input image will be resized before processing.
-Example: 80
+Size to which each image will be resized.
+Example: 320 (for the pretrained model provided the input size must be 320)
 
 - --`ddim_steps`
 Number of denoising steps in the DDIM sampling process.
